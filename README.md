@@ -72,7 +72,4 @@ WHAT'S NEXT
 Please visit the project website for tutorials, class reference
 and join discussions with other Yii users.
 
-
-
-The Yii Developer Team
-http://www.yiiframework.com
+https://www.youtube.com/watch?v=cbKUSceyy2E
